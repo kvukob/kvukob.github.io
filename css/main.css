@@ -1,7 +1,17 @@
 body{
-    background-color: black;
+    background-color: white;
+    margin: 0;
 }
 #wrap{
     text-align: center;
+}
+header{
+    margin: 0;
+    border-bottom: 1px solid rgb(0, 0, 0);
 
+
+}
+header ul,li{
+    list-style: none;
+    display: inline;
 }
